@@ -19,4 +19,10 @@ We embrace **Storage Disaggregated Architectures (SDA)**, enabling clean separat
 
 ---
 
-
+## 🧰 Developer SDKs & Tools we are building
+| SDK Type | Description |
+|----------|-------------|
+| 🧱 Core API | Low-level object/block interfaces |
+| 🧠 ML Frameworks | Connectors for PyTorch, TensorFlow, etc. |
+| 🗃️ DB Connectors | APIs to support custom databases or FS |
+| 📈 Monitoring Tools | Observability, metrics, and health tracking |
